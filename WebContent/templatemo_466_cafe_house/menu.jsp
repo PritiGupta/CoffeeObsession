@@ -98,17 +98,15 @@ http://www.templatemo.com/tm-466-cafe-house
               <div class="tm-position-relative margin-bottom-30">              
                 <nav class="tm-side-menu">
                   <ul>
-                    <li><a href="#" class="active">Affogato</a></li>
-                    <li><a href="#">Caffè Americano</a></li>
-                    <li><a href="#">Caffè latte</a></li>
-                    <li><a href="#">Coffee milk</a></li>
-                    <li><a href="#">Café mocha</a></li>
-                    <li><a href="#">Cappuccino</a></li>
-                    <li><a href="#">Espresso</a></li>
-                    <li><a href="#">Iced coffee</a></li>
-                    <li><a href="#">Instant coffee</a></li>
-                    <li><a href="#">Mocha</a></li>
-                    <li><a href="#">black coffee</a></li>
+                    <li>Caffè Americano <input type ="checkbox" name = "chbox" value = "Caffè Americano"></li><br>
+                    <li>Caffè latte <input type ="checkbox" name = "chbox" value ="Caffè latte"></li><br>
+                    <li>Coffee milk <input type ="checkbox" name = "chbox" value ="Coffee milk"></li><br>
+                    <li>Café mocha <input type ="checkbox" name = "chbox" value ="Café mocha"></li><br>
+                    <li>Cappuccino <input type ="checkbox" name = "chbox" value ="Cappuccino"></li><br>
+                    <li>Espresso <input type ="checkbox" name = "chbox" value ="Espresso"></li><br>
+                    <li>Iced coffee <input type ="checkbox" name = "chbox" value ="Iced coffee"></li><br>
+                    <li>Mocha <input type ="checkbox" name = "chbox" value ="Mocha"></li><br>
+                    <li>black coffee <input type ="checkbox" name = "chbox" value ="black coffee"></li><br>
                   </ul>              
                 </nav>    
                 <img src="img/vertical-menu-bg.png" alt="Menu bg" class="tm-side-menu-bg">

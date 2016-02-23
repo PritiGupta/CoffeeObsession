@@ -80,7 +80,7 @@ Coffee type:<input type = "text" name = "cof_type"><br><br>
 <input type = "submit">
 </form>
 <div id="footer">
-  <p id="legal">Copyright &copy; 2007 The CoffeeObsession Designed by <a href="">Priti Gupta</a></p>
+  <p id="legal">Copyright &copy; 2007 The CoffeeObsession Designed by <a href="">Priti & Diana</a></p>
   <p id="brand">The Coffee Shop</p>
 </div>
 </body>
