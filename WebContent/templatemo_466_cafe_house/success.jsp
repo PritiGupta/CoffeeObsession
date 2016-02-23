@@ -25,7 +25,9 @@ out.print("Options:<br><ul>");
 		
 		out.print("<table<tr><li>"+radio_boxes+"</li></tr></table>");
 	out.print("</ul>");
-}
+		}
+}else{
+	response.sendRedirect("form1.jsp");
 }
 
 for(String check_boxes:chbox){
@@ -37,6 +39,7 @@ for(String check_boxes:chbox){
 		<c:out value="${rad}"></c:out>
 		</c:forEach>
 --%>
+
 <div id="footer">
   <p id="legal">Copyright &copy; 2007 The CoffeeObsession Designed by <a href="">Priti Gupta</a></p>
   <p id="brand">The Coffee Shop</p>
