@@ -1,5 +1,5 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-pageEncoding="ISO-8859-1"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -99,10 +99,10 @@ http://www.templatemo.com/tm-466-cafe-house
                 <nav class="tm-side-menu">
                   <ul>
                     <li><a href="#" class="active">Affogato</a></li>
-                    <li><a href="#">Caffè Americano</a></li>
-                    <li><a href="#">Caffè latte</a></li>
+                    <li><a href="#">CaffÃ¨ Americano</a></li>
+                    <li><a href="#">CaffÃ¨ latte</a></li>
                     <li><a href="#">Coffee milk</a></li>
-                    <li><a href="#">Café mocha</a></li>
+                    <li><a href="#">CafÃ© mocha</a></li>
                     <li><a href="#">Cappuccino</a></li>
                     <li><a href="#">Espresso</a></li>
                     <li><a href="#">Iced coffee</a></li>
@@ -120,6 +120,7 @@ http://www.templatemo.com/tm-466-cafe-house
                 <div class="tm-product-text">
                   <h3 class="tm-product-title">Americano 1</h3>
                   <p class="tm-product-description">Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque. Red ipsum.</p>
+                	<li>Add to cart: <input type = "checkbox" name = "ch_box" value = "Americano1"></li>
                 </div>
                 <div class="tm-product-price">
                   <a href="#" class="tm-product-price-link tm-handwriting-font"><span class="tm-product-price-currency">$</span>30</a>
@@ -130,6 +131,7 @@ http://www.templatemo.com/tm-466-cafe-house
                 <div class="tm-product-text">
                   <h3 class="tm-product-title">Americano 2</h3>
                   <p class="tm-product-description">Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque. Red ipsum.</p>
+                	<li>Add to cart: <input type = "checkbox" name = "ch_box" value = "Americano2"></li>
                 </div>
                 <div class="tm-product-price">
                   <a href="#" class="tm-product-price-link tm-handwriting-font"><span class="tm-product-price-currency">$</span>20</a>
@@ -140,6 +142,7 @@ http://www.templatemo.com/tm-466-cafe-house
                 <div class="tm-product-text">
                   <h3 class="tm-product-title">Americano 3</h3>
                   <p class="tm-product-description">Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque. Red ipsum.</p>
+                	<li>Add to cart: <input type = "checkbox" name = "ch_box" value = "Americano3"></li>
                 </div>
                 <div class="tm-product-price">
                   <a href="#" class="tm-product-price-link tm-handwriting-font"><span class="tm-product-price-currency">$</span>15</a>
@@ -150,6 +153,7 @@ http://www.templatemo.com/tm-466-cafe-house
                 <div class="tm-product-text">
                   <h3 class="tm-product-title">Americano 4</h3>
                   <p class="tm-product-description">Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque. Red ipsum.</p>
+                	<li>Add to cart: <input type = "checkbox" name = "ch_box" value = "Americano4"></li>
                 </div>
                 <div class="tm-product-price">
                   <a href="#" class="tm-product-price-link tm-handwriting-font"><span class="tm-product-price-currency">$</span>25</a>
@@ -160,13 +164,17 @@ http://www.templatemo.com/tm-466-cafe-house
                 <div class="tm-product-text">
                   <h3 class="tm-product-title">Americano 5</h3>
                   <p class="tm-product-description">Maecenas tempus, tellus eget condimentum rhoncus, sem quam semper libero, sit amet adipiscing sem neque. Red ipsum.</p>
+                	<li>Add Americano to cart: <input type = "checkbox" name = "ch_box" value = "Americano5"></li>
                 </div>
                 <div class="tm-product-price">
                   <a href="#" class="tm-product-price-link tm-handwriting-font"><span class="tm-product-price-currency">$</span>45</a>
                 </div>
               </div>
             </div>
-          </div>          
+          </div> 
+          <div clss="submitbutton" align="center">
+                <input type = "submit" value = "ADD TO CART ">   
+          </div>      
         </section>
       </div>
     </div> 

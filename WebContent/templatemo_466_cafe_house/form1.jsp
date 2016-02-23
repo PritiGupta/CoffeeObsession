@@ -1,5 +1,5 @@
-<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
 <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
 <html>
 <head>
@@ -80,7 +80,7 @@ Coffee type:<input type = "text" name = "cof_type"><br><br>
 <input type = "submit">
 </form>
 <div id="footer">
-  <p id="legal">Copyright &copy; 2007 The CoffeeObsession Designed by <a href="">Priti Gupta</a></p>
+  <p id="legal">Copyright &copy; 2007 The CoffeeObsession Designed by <a href="">Priti & Diana</a></p>
   <p id="brand">The Coffee Shop</p>
 </div>
 </body>
