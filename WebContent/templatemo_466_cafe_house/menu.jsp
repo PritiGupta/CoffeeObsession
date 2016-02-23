@@ -99,7 +99,11 @@ http://www.templatemo.com/tm-466-cafe-house
                 <nav class="tm-side-menu">
                   <ul>
 
+<<<<<<< HEAD
                     <li>Caffè Americano <input type ="checkbox" name = "chbox" value = "Caffè Americano"></li><br>
+=======
+					<li>Caffè Americano <input type ="checkbox" name = "chbox" value = "Caffè Americano"></li><br>
+>>>>>>> 26f3bb5de79e4b7661064dfcff423cc8383be49e
                     <li>Caffè latte <input type ="checkbox" name = "chbox" value ="Caffè latte"></li><br>
                     <li>Coffee milk <input type ="checkbox" name = "chbox" value ="Coffee milk"></li><br>
                     <li>Café mocha <input type ="checkbox" name = "chbox" value ="Café mocha"></li><br>
@@ -108,9 +112,13 @@ http://www.templatemo.com/tm-466-cafe-house
                     <li>Iced coffee <input type ="checkbox" name = "chbox" value ="Iced coffee"></li><br>
                     <li>Mocha <input type ="checkbox" name = "chbox" value ="Mocha"></li><br>
                     <li>black coffee <input type ="checkbox" name = "chbox" value ="black coffee"></li><br>
+<<<<<<< HEAD
 
 
                   </ul>              
+=======
+				</ul>              
+>>>>>>> 26f3bb5de79e4b7661064dfcff423cc8383be49e
                 </nav>    
                 <img src="img/vertical-menu-bg.png" alt="Menu bg" class="tm-side-menu-bg">
               </div>  
