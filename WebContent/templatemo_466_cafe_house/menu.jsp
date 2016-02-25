@@ -98,9 +98,10 @@ http://www.templatemo.com/tm-466-cafe-house
               <div class="tm-position-relative margin-bottom-30">              
                 <nav class="tm-side-menu">
                   <ul>
+<form data= "input" action >
+			<li>Caffè Americano <input type ="checkbox" name = "chbox" value = "Caffè Americano"></li>
 
-					<li>Caffè Americano <input type ="checkbox" name = "chbox" value = "Caffè Americano"></li><br>
-                    <li>Caffè latte <input type ="checkbox" name = "chbox" value ="Caffè latte"></li><br>
+                    <li>Caffè latte <input type ="checkbox" name = "chbox" value ="Caffè latte"></li>
                     <li>Coffee milk <input type ="checkbox" name = "chbox" value ="Coffee milk"></li><br>
                     <li>Café mocha <input type ="checkbox" name = "chbox" value ="Café mocha"></li><br>
                     <li>Cappuccino <input type ="checkbox" name = "chbox" value ="Cappuccino"></li><br>
@@ -108,7 +109,13 @@ http://www.templatemo.com/tm-466-cafe-house
                     <li>Iced coffee <input type ="checkbox" name = "chbox" value ="Iced coffee"></li><br>
                     <li>Mocha <input type ="checkbox" name = "chbox" value ="Mocha"></li><br>
                     <li>black coffee <input type ="checkbox" name = "chbox" value ="black coffee"></li><br>
-				</ul>              
+
+
+
+                  </ul>              
+
+				             
+
                 </nav>    
                 <img src="img/vertical-menu-bg.png" alt="Menu bg" class="tm-side-menu-bg">
               </div>  
@@ -172,11 +179,12 @@ http://www.templatemo.com/tm-466-cafe-house
             </div>
           </div> 
           <div clss="submitbutton" align="center">
-                <input type = "submit" value = "ADD TO CART ">   
+                <input type = "submit" value = "ADD TO CART " >   
           </div>      
         </section>
       </div>
     </div> 
+    <form method="put" action="success.jsp">
     <footer>
       <div class="tm-black-bg">
         <div class="container">
