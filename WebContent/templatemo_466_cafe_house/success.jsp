@@ -38,7 +38,7 @@ for(String check_boxes:chbox){
 		</c:forEach>
 --%>
 <div id="footer">
-  <p id="legal">Copyright &copy; 2007 The CoffeeObsession Designed by <a href="">Priti Gupta</a></p>
+  <p id="legal">Copyright &copy; 2007 The CoffeeObsession Designed by <a href="">DMiller</a></p>
   <p id="brand">The Coffee Shop</p>
 </div>
 
